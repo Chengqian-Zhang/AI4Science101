@@ -6,7 +6,9 @@
 <center>Figure 3: Scientific discovery process</center>
 <br>
 
+
 #### Traditional Discovery Process in Science (a day of a scientist)
+
 
   - Goal - Drug design (AI can help in different phases of drug design)
 
